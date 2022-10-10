@@ -10,5 +10,11 @@
     "extension_author": "deltaverse",
     "extension_git_url": "https://github.com/deltaverse/date_time",
     "extension_description": "Let's you stream music using Sand's torrent stream api. Stores your preferences and play history to local. All the data will be lost when the extension is removed. No personal data will be collected."
+  },
+  {
+    "extension_name": "Music Player 2",
+    "extension_author": "deltaverse",
+    "extension_git_url": "https://github.com/deltaverse/date_time",
+    "extension_description": "Let's you stream music using Sand's torrent stream api. Stores your preferences and play history to local. All the data will be lost when the extension is removed. No personal data will be collected."
   }
 ]
